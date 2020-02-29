@@ -8,4 +8,4 @@
 
 #### Result:
 
-![](images/flex2.gif)
+![](images/flex.gif)
